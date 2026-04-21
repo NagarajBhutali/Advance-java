@@ -1,4 +1,4 @@
-1.listinterface op:
+1.listinterface op: https://github.com/NagarajBhutali/Advance-java/blob/master/ListInterfaceDemo.png
 
 1b.1 color "Red" is available or not op: https://github.com/NagarajBhutali/Advance-java/blob/master/output_1b1.png
 
